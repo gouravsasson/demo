@@ -8,7 +8,7 @@ import { gsap } from "gsap";
 import ImageList from "@mui/material/ImageList";
 import ImageListItem from "@mui/material/ImageListItem";
 import img1 from "../../assets/portfolio/1.webp";
-import img2 from "../../assets/portfolio/2.webp";
+
 import img3 from "../../assets/portfolio/3.webp";
 import img4 from "../../assets/portfolio/4.webp";
 import img5 from "../../assets/portfolio/5.webp";
@@ -74,7 +74,7 @@ const itemData = [
   { img: img14, title: "Image 14", rows: 6, cols: 2, rows1: 2, cols1: 2 },
   
   { img: img12, title: "Image 12", rows: 10, cols: 2, rows1: 2, cols1: 2 },
-  { img: img2, title: "Image 2", rows: 6, cols: 2, rows1: 2, cols1: 2 },
+  
 ];
 
 
