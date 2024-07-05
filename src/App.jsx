@@ -7,33 +7,33 @@ import { gsap } from "gsap";
 
 import ImageList from "@mui/material/ImageList";
 import ImageListItem from "@mui/material/ImageListItem";
-import img1 from "../../assets/portfolio/1.webp";
-
-import img3 from "../../assets/portfolio/3.webp";
-import img4 from "../../assets/portfolio/4.webp";
-import img5 from "../../assets/portfolio/5.webp";
-import img6 from "../../assets/portfolio/6.webp";
-import img7 from "../../assets/portfolio/7.webp";
-import img8 from "../../assets/portfolio/8.webp";
-import img9 from "../../assets/portfolio/9.webp";
-import img10 from "../../assets/portfolio/10.webp";
-import img11 from "../../assets/portfolio/11.webp";
-import img12 from "../../assets/portfolio/12.webp";
-import img13 from "../../assets/portfolio/13.webp";
-import img14 from "../../assets/portfolio/14.webp";
-import img15 from "../../assets/portfolio/15.webp";
-import img16 from "../../assets/portfolio/16.webp";
-import img17 from "../../assets/portfolio/17.webp";
-import img18 from "../../assets/portfolio/18.webp";
-import img19 from "../../assets/portfolio/19.webp";
-import img20 from "../../assets/portfolio/20.webp";
-import img21 from "../../assets/portfolio/21.webp";
-import img22 from "../../assets/portfolio/22.webp";
-import img23 from "../../assets/portfolio/23.webp";
-import img24 from "../../assets/portfolio/24.webp";
-import img25 from "../../assets/portfolio/25.webp";
-import img26 from "../../assets/portfolio/26.webp";
-import img27 from "../../assets/portfolio/27.webp";
+import img1 from "./assets/portfolio/1.webp";
+import img2 from "./assets/portfolio/2.webp";
+import img3 from "./assets/portfolio/3.webp";
+import img4 from "./assets/portfolio/4.webp";
+import img5 from "./assets/portfolio/5.webp";
+import img6 from "./assets/portfolio/6.webp";
+import img7 from "./assets/portfolio/7.webp";
+import img8 from "./assets/portfolio/8.webp";
+import img9 from "./assets/portfolio/9.webp";
+import img10 from "./assets/portfolio/10.webp";
+import img11 from "./assets/portfolio/11.webp";
+import img12 from "./assets/portfolio/12.webp";
+import img13 from "./assets/portfolio/13.webp";
+import img14 from "./assets/portfolio/14.webp";
+import img15 from "./assets/portfolio/15.webp";
+import img16 from "./assets/portfolio/16.webp";
+import img17 from "./assets/portfolio/17.webp";
+import img18 from "./assets/portfolio/18.webp";
+import img19 from "./assets/portfolio/19.webp";
+import img20 from "./assets/portfolio/20.webp";
+import img21 from "./assets/portfolio/21.webp";
+import img22 from "./assets/portfolio/22.webp";
+import img23 from "./assets/portfolio/23.webp";
+import img24 from "./assets/portfolio/24.webp";
+import img25 from "./assets/portfolio/25.webp";
+import img26 from "./assets/portfolio/26.webp";
+import img27 from "./assets/portfolio/27.webp";
 import { UilArrowCircleLeft } from "@iconscout/react-unicons";
 import { UilArrowCircleRight } from "@iconscout/react-unicons";
 import { UilTimes } from "@iconscout/react-unicons";
@@ -74,7 +74,7 @@ const itemData = [
   { img: img14, title: "Image 14", rows: 6, cols: 2, rows1: 2, cols1: 2 },
   
   { img: img12, title: "Image 12", rows: 10, cols: 2, rows1: 2, cols1: 2 },
-  
+  { img: img2, title: "Image 2", rows: 6, cols: 2, rows1: 2, cols1: 2 },
 ];
 
 
