@@ -50,31 +50,7 @@ const itemData = [
   { img: img3, title: "Image 3", rows: 7, cols: 2, rows1: 2, cols1: 2 },
   { img: img13, title: "Image 13", rows: 8, cols: 2, rows1: 2, cols1: 2 },
   { img: img11, title: "Image 11", rows: 4, cols: 2, rows1: 2, cols1: 2 },
-  { img: img6, title: "Image 6", rows: 4, cols: 2, rows1: 2, cols1: 2 },
-  
-  { img: img10, title: "Image 10", rows: 5, cols: 2, rows1: 2, cols1: 2 },
-  { img: img20, title: "Image 20", rows: 6, cols: 2, rows1: 2, cols1: 2 },
-  { img: img25, title: "Image 25", rows: 10, cols: 2, rows1: 2, cols1: 2 },
-  { img: img19, title: "Image 19", rows: 8, cols: 2, rows1: 2, cols1: 2 },
-  { img: img15, title: "Image 15", rows: 7, cols: 2, rows1: 2, cols1: 2 },
-  { img: img8, title: "Image 8", rows: 6, cols: 2, rows1: 2, cols1: 2 },
-  
-  { img: img21, title: "Image 21", rows: 7, cols: 2, rows1: 2, cols1: 2 },
-  
-  { img: img9, title: "Image 9", rows: 7, cols: 2, rows1: 2, cols1: 2 },
-  { img: img22, title: "Image 22", rows: 5, cols: 2, rows1: 2, cols1: 2 },
-  { img: img26, title: "Image 26", rows: 6, cols: 2, rows1: 2, cols1: 2 },
-  { img: img23, title: "Image 23", rows: 4, cols: 2, rows1: 2, cols1: 2 },
-  { img: img18, title: "Image 18", rows: 6, cols: 2, rows1: 2, cols1: 2 },
-  { img: img7, title: "Image 7", rows: 8, cols: 2, rows1: 2, cols1: 2 },
-  { img: img16, title: "Image 16", rows: 5, cols: 2, rows1: 2, cols1: 2 },
-  { img: img17, title: "Image 17", rows: 4, cols: 2, rows1: 2, cols1: 2 },
-  { img: img27, title: "Image 27", rows: 6, cols: 2, rows1: 2, cols1: 2 },
-  { img: img5, title: "Image 5", rows: 6, cols: 2, rows1: 2, cols1: 2 },
-  { img: img14, title: "Image 14", rows: 6, cols: 2, rows1: 2, cols1: 2 },
-  
-  { img: img12, title: "Image 12", rows: 10, cols: 2, rows1: 2, cols1: 2 },
-  { img: img2, title: "Image 2", rows: 6, cols: 2, rows1: 2, cols1: 2 },
+ 
 ];
 
 
